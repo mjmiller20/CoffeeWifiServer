@@ -29,8 +29,8 @@ ported for sparkfun esp32
 #include <WiFi.h>
 #include <ESP32Servo.h>
 
-const char* ssid     = "Jorell's Mac mini";
-const char* password = "Jorell01";
+const char* ssid     = "SETUP-5682";
+const char* password = "finish4719chair";
 int pos = 0;
 int servoPinB = 13;
 int servoPinL = 12;
